@@ -1,0 +1,147 @@
+{
+  "C:\\Users\\jimmy2vs\\sfdc\\base-exp-vf\\force-app": {
+    "sourcePath": "C:\\Users\\jimmy2vs\\sfdc\\base-exp-vf\\force-app",
+    "isDirectory": true,
+    "modifiedTime": 1636601547645,
+    "changeTime": 1636601547645,
+    "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+    "state": "n",
+    "isArtifactRoot": true,
+    "package": "force-app"
+  },
+  "C:\\Users\\jimmy2vs\\sfdc\\base-exp-vf\\force-app\\main": {
+    "sourcePath": "C:\\Users\\jimmy2vs\\sfdc\\base-exp-vf\\force-app\\main",
+    "isDirectory": true,
+    "modifiedTime": 1636601547645,
+    "changeTime": 1636601547645,
+    "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\jimmy2vs\\sfdc\\base-exp-vf\\force-app\\main\\default": {
+    "sourcePath": "C:\\Users\\jimmy2vs\\sfdc\\base-exp-vf\\force-app\\main\\default",
+    "isDirectory": true,
+    "modifiedTime": 1636601547881,
+    "changeTime": 1636601547881,
+    "contentHash": "134fb9100108b9aaba9aee713cf235d514fd8f88",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\jimmy2vs\\sfdc\\base-exp-vf\\force-app\\main\\default\\applications": {
+    "sourcePath": "C:\\Users\\jimmy2vs\\sfdc\\base-exp-vf\\force-app\\main\\default\\applications",
+    "isDirectory": true,
+    "modifiedTime": 1636601547646,
+    "changeTime": 1636601547646,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\jimmy2vs\\sfdc\\base-exp-vf\\force-app\\main\\default\\aura": {
+    "sourcePath": "C:\\Users\\jimmy2vs\\sfdc\\base-exp-vf\\force-app\\main\\default\\aura",
+    "isDirectory": true,
+    "modifiedTime": 1636601547882,
+    "changeTime": 1636601547882,
+    "contentHash": "71c20a341bfe32aa5cd5b4384e94f942bab6a7d3",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\jimmy2vs\\sfdc\\base-exp-vf\\force-app\\main\\default\\classes": {
+    "sourcePath": "C:\\Users\\jimmy2vs\\sfdc\\base-exp-vf\\force-app\\main\\default\\classes",
+    "isDirectory": true,
+    "modifiedTime": 1636601547647,
+    "changeTime": 1636601547647,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\jimmy2vs\\sfdc\\base-exp-vf\\force-app\\main\\default\\contentassets": {
+    "sourcePath": "C:\\Users\\jimmy2vs\\sfdc\\base-exp-vf\\force-app\\main\\default\\contentassets",
+    "isDirectory": true,
+    "modifiedTime": 1636601547647,
+    "changeTime": 1636601547647,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\jimmy2vs\\sfdc\\base-exp-vf\\force-app\\main\\default\\flexipages": {
+    "sourcePath": "C:\\Users\\jimmy2vs\\sfdc\\base-exp-vf\\force-app\\main\\default\\flexipages",
+    "isDirectory": true,
+    "modifiedTime": 1636601547647,
+    "changeTime": 1636601547647,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\jimmy2vs\\sfdc\\base-exp-vf\\force-app\\main\\default\\layouts": {
+    "sourcePath": "C:\\Users\\jimmy2vs\\sfdc\\base-exp-vf\\force-app\\main\\default\\layouts",
+    "isDirectory": true,
+    "modifiedTime": 1636601547648,
+    "changeTime": 1636601547648,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\jimmy2vs\\sfdc\\base-exp-vf\\force-app\\main\\default\\lwc": {
+    "sourcePath": "C:\\Users\\jimmy2vs\\sfdc\\base-exp-vf\\force-app\\main\\default\\lwc",
+    "isDirectory": true,
+    "modifiedTime": 1636601768826,
+    "changeTime": 1636601768826,
+    "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\jimmy2vs\\sfdc\\base-exp-vf\\force-app\\main\\default\\objects": {
+    "sourcePath": "C:\\Users\\jimmy2vs\\sfdc\\base-exp-vf\\force-app\\main\\default\\objects",
+    "isDirectory": true,
+    "modifiedTime": 1636601547648,
+    "changeTime": 1636601547648,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\jimmy2vs\\sfdc\\base-exp-vf\\force-app\\main\\default\\permissionsets": {
+    "sourcePath": "C:\\Users\\jimmy2vs\\sfdc\\base-exp-vf\\force-app\\main\\default\\permissionsets",
+    "isDirectory": true,
+    "modifiedTime": 1636601547649,
+    "changeTime": 1636601547649,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\jimmy2vs\\sfdc\\base-exp-vf\\force-app\\main\\default\\staticresources": {
+    "sourcePath": "C:\\Users\\jimmy2vs\\sfdc\\base-exp-vf\\force-app\\main\\default\\staticresources",
+    "isDirectory": true,
+    "modifiedTime": 1636601547649,
+    "changeTime": 1636601547649,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\jimmy2vs\\sfdc\\base-exp-vf\\force-app\\main\\default\\tabs": {
+    "sourcePath": "C:\\Users\\jimmy2vs\\sfdc\\base-exp-vf\\force-app\\main\\default\\tabs",
+    "isDirectory": true,
+    "modifiedTime": 1636601547650,
+    "changeTime": 1636601547650,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\jimmy2vs\\sfdc\\base-exp-vf\\force-app\\main\\default\\triggers": {
+    "sourcePath": "C:\\Users\\jimmy2vs\\sfdc\\base-exp-vf\\force-app\\main\\default\\triggers",
+    "isDirectory": true,
+    "modifiedTime": 1636601547650,
+    "changeTime": 1636601547650,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Users\\jimmy2vs\\sfdc\\base-exp-vf": {
+    "sourcePath": "C:\\Users\\jimmy2vs\\sfdc\\base-exp-vf",
+    "isDirectory": true,
+    "modifiedTime": 1636683671275,
+    "changeTime": 1636683671275,
+    "contentHash": "f256f31c33b9703fca49f805fff88c08ac759e0a",
+    "state": "n",
+    "isWorkspace": true
+  }
+}
